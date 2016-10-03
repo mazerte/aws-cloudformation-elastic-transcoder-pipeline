@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warn: no test specified\" && exit 0",
-    "cfn-lambda-deploy": "node ./node_modules/cfn-lambda/deploy.js"
+    "cfn-lambda-deploy": "node_modules/cfn-lambda/bin/cfn-lambda deploy"
   },
   "author": "Mathieu Desvé <mathieu.desve@me.com>",
   "license": "ISC",
