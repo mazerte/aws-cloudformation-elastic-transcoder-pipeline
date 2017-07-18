@@ -51,10 +51,10 @@
                 "items": {
                   "type": "string",
                   "enum": [
-                    "READ",
-                    "READ_ACP",
-                    "WRITE_ACP",
-                    "FULL_CONTROL"
+                    "Read",
+                    "ReadAcp",
+                    "WriteAcp",
+                    "FullControl"
                   ]
                 }
               },
@@ -108,10 +108,10 @@
                 "items": {
                   "type": "string",
                   "enum": [
-                    "READ",
-                    "READ_ACP",
-                    "WRITE_ACP",
-                    "FULL_CONTROL"
+                    "Read",
+                    "ReadAcp",
+                    "WriteAcp",
+                    "FullControl"
                   ]
                 }
               },
